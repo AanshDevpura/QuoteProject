@@ -1,3 +1,4 @@
+---
 title: QuoteProject
 emoji: 📈
 colorFrom: yellow
@@ -7,7 +8,6 @@ python_version: 3.12
 sdk_version: 4.37.2
 app_file: app.py
 pinned: false
-
 ---
 
 # QuoteProject

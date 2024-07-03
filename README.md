@@ -1,8 +1,8 @@
 ---
 title: QuoteProject
 emoji: 🤖
-colorFrom: grey
-colorTo: grey
+colorFrom: gray
+colorTo: gray
 sdk: gradio
 sdk_version: 4.37.2
 app_file: app.py

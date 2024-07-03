@@ -1,5 +1,12 @@
 ---
 title: QuoteProject
+emoji: 〝
+colorFrom: yellow
+colorTo: red
+sdk: gradio
+sdk_version: 4.37.2
+app_file: app.py
+pinned: false
 ---
 
 # QuoteProject

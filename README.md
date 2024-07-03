@@ -1,3 +1,15 @@
+title: QuoteProject
+emoji: 📈
+colorFrom: yellow
+colorTo: gray
+sdk: gradio
+python_version: 3.12
+sdk_version: 4.37.2
+app_file: app.py
+pinned: false
+
+---
+
 # QuoteProject
 
 ## Components
@@ -34,17 +46,6 @@ Users can use Salesforce/blip-image-captioning-large instead of the Neural Netwo
 
 Users can input their own text to bypass Image to Text.
 
-## Users can filter quotes by popularity and modify temperature for llama3.
-
-title: QuoteProject
-emoji: 📈
-colorFrom: yellow
-colorTo: gray
-sdk: gradio
-sdk_version: 4.37.2
-app_file: app.py
-pinned: false
-
----
+Users can filter quotes by popularity and modify temperature for llama3.
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference

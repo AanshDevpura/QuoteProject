@@ -34,21 +34,4 @@ Users can use Salesforce/blip-image-captioning-large instead of the Neural Netwo
 
 Users can input their own text to bypass Image to Text.
 
-# Users can filter quotes by popularity and modify temperature for llama3.
-
----
-
-title: QuoteProject
-emoji: 🐨
-colorFrom: blue
-colorTo: blue
-sdk: gradio
-sdk_version: 4.37.2
-app_file: app.py
-pinned: false
-
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
-> > > > > > > 2aceaec79b915b2d4667d1fd80fdb8bb91095fc8
+Users can filter quotes by popularity and modify temperature for llama3.

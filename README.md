@@ -1,6 +1,6 @@
 ---
 title: QuoteProject
-emoji: 〝
+emoji: 🤖
 colorFrom: yellow
 colorTo: red
 sdk: gradio

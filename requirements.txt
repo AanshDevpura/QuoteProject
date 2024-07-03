@@ -1,3 +1,4 @@
+pip == 24.1.1
 torch==2.3.1
 deeplake==3.9.11
 torchvision==0.18.1

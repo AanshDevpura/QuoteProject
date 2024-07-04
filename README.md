@@ -32,7 +32,9 @@ This allows dot product similarity to be used to find similar quotes (like a vec
 
 ### Real Quotes to AI Generated Quotes
 
-The real quotes and keywords/captions are passed to llama3 to generate a quote
+The real quotes and keywords/captions are passed to llama3 to generate a quote.
+
+You need ollama for this to work.
 
 ### Other components
 

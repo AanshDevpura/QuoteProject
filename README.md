@@ -42,11 +42,3 @@ Users can input their own text to bypass Image to Text.
 
 Users can filter quotes by popularity and modify temperature for llama3.
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
-
-Users can input their own text to bypass Image to Text.
-
-Users can filter quotes by popularity and modify temperature for llama3.
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference

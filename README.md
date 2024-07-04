@@ -2,7 +2,7 @@
 
 ## Link
 
-Ollama does not work in Spaces so no Real Quotes to AI Generated Quotes
+Ollama does not work in Spaces so no Real Quotes to AI Generated Quotes.
 
 https://huggingface.co/spaces/adevpura/QuoteProject
 

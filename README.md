@@ -34,7 +34,7 @@ This allows dot product similarity to be used to find similar quotes (like a vec
 
 The real quotes and keywords/captions are passed to llama3 to generate a quote.
 
-You need ollama for this to work.
+You need to download ollama for this to work.
 
 ### Other components
 

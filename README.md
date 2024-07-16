@@ -1,4 +1,4 @@
-# QuoteProject
+# Quote Finder and Generator
 
 ## Link
 

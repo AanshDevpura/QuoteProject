@@ -1,4 +1,4 @@
-# Quote Finder and Generator
+# Quote Finder and Generator from Image
 
 ## Link
 
